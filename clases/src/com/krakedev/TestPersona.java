@@ -11,16 +11,18 @@ public class TestPersona {
 		
 		p=new Persona(); // instaciar un objeto perona y referenciar con
 		
-		System.out.println("nombre: " +p.nombre);
-		System.out.println("edad: "+ p.edadPersona);
-		System.out.println("estatura: "+p.estatura);
+		System.out.println("nombre: " +p.getNombre());
+		System.out.println("edad: "+ p.getEdadPersona());
+		System.out.println("estatura: "+p.getEstatura());
 		
-		p.nombre= "jonathan";
+		p.setNombre("jonathan");
 		
-		p2.nombre= "lucho";
+		p.setNombre("lucho");
 		
-		System.out.println("nombre1: " + p.nombre);
-		System.out.println("nombre2: "+p2.nombre);
+		
+		
+		System.out.println("nombre1: " + p.getNombre());
+		System.out.println("nombre2: "+p2.getNombre());
 
 	}
 

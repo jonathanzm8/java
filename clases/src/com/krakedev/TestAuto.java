@@ -7,23 +7,23 @@ public class TestAuto {
 		Auto auto1= new Auto();
 		Auto auto2= new Auto();
 		
-		auto1.anio= 2020;
-		auto1.precio= 15.000;
-		auto1.tipo ="camioneta";
+		auto1.setAnio(200);
+		auto1.setPrecio(15.00);
+		auto1.setTipo("camioneta");
 		
-		System.out.println("anio: "+ auto1.anio);
-		System.out.println("precio: "+ auto1.precio);
-		System.out.println("tipo: "+ auto1.tipo);
+		System.out.println("anio: "+ auto1.getAnio());
+		System.out.println("precio: "+ auto1.getPrecio());
+		System.out.println("tipo: "+ auto1.getTipo());
 		
-		auto2.anio= 2022;
-		auto2.precio= 18.000;
-		auto2.tipo ="jeef";
+		auto2.setAnio(2020);;
+		auto2.setPrecio(22.00);;
+		auto2.setTipo("jeef");
 		
 		System.out.println("--------------------------------");
 		
-		System.out.println("anio: "+ auto2.anio);
-		System.out.println("precio: "+ auto2.precio);
-		System.out.println("tipo: "+ auto2.tipo);
+		System.out.println("anio: "+ auto2.getAnio());
+		System.out.println("precio: "+ auto2.getPrecio());
+		System.out.println("tipo: "+ auto2.getTipo());
 		
 		
 

@@ -9,39 +9,39 @@ public class TesProducto {
 		Producto productoB= new Producto();
 		Producto productoC= new Producto();
 		
-		productoA.nombre="vitaminasC";
-		productoA.descripcion="vitaminas sabor a naranja";
-		productoA.precio= 2.00;
-		productoA.stockActual= 7;
+		productoA.setNombre("vitaminac");
+		productoA.setDescripcion("vitaminas sabor a naranja");
+		productoA.setPrecio(2.00);
+		productoA.setStockActual(7);
 		
-		System.out.println("nombre: "+productoA.nombre);
-		System.out.println("descripcion : "+productoA.descripcion);
-		System.out.println("precio: "+productoA.precio);
-		System.out.println("stock: "+productoA.stockActual);
-		
-		System.out.println("---------------------------------");
-		
-		productoB.nombre="paracetamol";
-		productoB.descripcion="patillas para aliviar el dolor ";
-		productoB.precio= 1.20;
-		productoB.stockActual= 12;
-		
-		System.out.println("nombre: "+productoB.nombre);
-		System.out.println("descripcion : "+productoB.descripcion);
-		System.out.println("precio: "+productoB.precio);
-		System.out.println("stock: "+productoB.stockActual);
+		System.out.println("nombre: "+productoA.getNombre());
+		System.out.println("descripcion : "+productoA.getDescripcion());
+		System.out.println("precio: "+productoA.getPrecio());
+		System.out.println("stock: "+productoA.getStockActual());
 		
 		System.out.println("---------------------------------");
 		
-		productoC.nombre="jarabe";
-		productoC.descripcion="jarabe para calmar la tos  ";
-		productoC.precio= 5.20;
-		productoC.stockActual= 6;
+		productoB.setNombre("paracetamol");
+		productoB.setDescripcion("pastillas para el dolor");
+		productoB.setPrecio(1.20);
+		productoB.setStockActual(12);
 		
-		System.out.println("nombre: "+productoC.nombre);
-		System.out.println("descripcion : "+productoC.descripcion);
-		System.out.println("precio: "+productoC.precio);
-		System.out.println("stock: "+productoC.stockActual);
+		System.out.println("nombre: "+productoB.getNombre());
+		System.out.println("descripcion : "+productoB.getDescripcion());
+		System.out.println("precio: "+productoB.getPrecio());
+		System.out.println("stock: "+productoB.getStockActual());
+		
+		System.out.println("---------------------------------");
+		
+		productoC.setNombre("jarabe");
+		productoC.setDescripcion("para calmar la tos ");
+		productoC.setPrecio(5.20);
+		productoC.setStockActual(6);
+		
+		System.out.println("nombre: "+productoC.getNombre());
+		System.out.println("descripcion : "+productoC.getDescripcion());
+		System.out.println("precio: "+productoC.getPrecio());
+		System.out.println("stock: "+productoC.getStockActual());
 		
 		
 				

@@ -7,7 +7,7 @@ public class TestCuadrado {
 		// TODO Auto-generated method stub
 
 		Cuadrado c1 = new Cuadrado();
-		c1.lado = 4;
+		c1.setLado(4);
 		double areaCuadrado;
 
 		areaCuadrado = c1.CalcularArea();
@@ -24,7 +24,7 @@ public class TestCuadrado {
 
 		Cuadrado c2 = new Cuadrado();
 
-		c2.lado = 8;
+		c2.setLado(8);
 		double area2;
 
 		area2 = c1.CalcularArea();
@@ -41,7 +41,7 @@ public class TestCuadrado {
 
 		Cuadrado c3 = new Cuadrado();
 
-		c3.lado = 2;
+		c3.setLado(2);
 		double area3;
 
 		area3 = c3.CalcularArea();

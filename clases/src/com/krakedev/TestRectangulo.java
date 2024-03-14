@@ -11,8 +11,9 @@ public class TestRectangulo {
 		
 		int area;
 		
-		r1.base= 10;
-		r1.altura= 2;
+		r1.setAltura(10);
+		r1.setBase(2);
+	
 		
 		area=r1.CalcularArea();
 		
@@ -20,8 +21,10 @@ public class TestRectangulo {
 		
 		int area1;
 		
-		r2.base=2;
-		r2.altura=5;
+		r2.setAltura(2);
+		r2.setBase(5);
+		
+		
 		
 		area1= r2.CalcularArea();
 		System.out.println("el area de r2 es : "+ area1);
@@ -29,9 +32,10 @@ public class TestRectangulo {
 		
 		Rectangulo peri= new Rectangulo();
 		int resPeri;
+		
+		peri.setAltura(2);
+		peri.setBase(10);
 
-		peri.base= 10;
-		peri.altura=2;
 		
 		resPeri=peri.CalcularPerimetro();
 		System.out.println("el perimetro es:" +resPeri);
