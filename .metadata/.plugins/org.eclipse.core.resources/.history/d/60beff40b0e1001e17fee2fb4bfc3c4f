@@ -5,9 +5,9 @@ public class TesProducto {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Producto productoA= new Producto("vitaminas A");
-		Producto productoB= new Producto("ampolla",12.0);
-		Producto productoC= new Producto("pastillas");
+		Producto productoA= new Producto();
+		Producto productoB= new Producto();
+		Producto productoC= new Producto();
 		
 		productoA.setNombre("vitaminac");
 		productoA.setDescripcion("vitaminas sabor a naranja");

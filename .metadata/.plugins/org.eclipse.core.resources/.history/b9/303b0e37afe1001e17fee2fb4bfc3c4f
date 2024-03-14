@@ -10,10 +10,7 @@ public class Auto {
 		this.tipo= tipo;
 	}
 	
-	public Auto(String tipo, int anio) {
-		this.tipo= tipo;
-		this.anio=anio;
-	}
+	
 	//-------------------------------
 	public String getTipo() {
 		return tipo;

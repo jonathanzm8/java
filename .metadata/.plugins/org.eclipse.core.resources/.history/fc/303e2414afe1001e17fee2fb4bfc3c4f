@@ -4,17 +4,6 @@ public class Auto {
 	private String tipo;
 	private int anio;
 	private double precio;
-	// constructores
-	
-	public Auto(String tipo) {
-		this.tipo= tipo;
-	}
-	
-	public Auto(String tipo, int anio) {
-		this.tipo= tipo;
-		this.anio=anio;
-	}
-	//-------------------------------
 	public String getTipo() {
 		return tipo;
 	}
