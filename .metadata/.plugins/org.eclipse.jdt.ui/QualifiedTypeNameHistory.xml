@@ -7,4 +7,13 @@
     <fullyQualifiedTypeName name="com.krakedev.Persona"/>
     <fullyQualifiedTypeName name="com.krakedev.Rectangulo"/>
     <fullyQualifiedTypeName name="clearminds.cuentas.Cuenta"/>
+    <fullyQualifiedTypeName name="com.krakedev.demo.Producto"/>
+    <fullyQualifiedTypeName name="com.kravedev.controlflujo.Validador"/>
+    <fullyQualifiedTypeName name="com.cmc.repaso.entidades.Estudiante"/>
+    <fullyQualifiedTypeName name="com.cmc.repaso.entidades.Producto"/>
+    <fullyQualifiedTypeName name="com.cmc.repaso.entidades.Item"/>
+    <fullyQualifiedTypeName name="com.krakedev.composicion.Persona"/>
+    <fullyQualifiedTypeName name="com.krakedev.composicion.direccion"/>
+    <fullyQualifiedTypeName name="com.krakedev.composicion.Producto"/>
+    <fullyQualifiedTypeName name="com.krakedev.composicion.AdminProducto"/>
 </qualifiedTypeNameHistroy>
