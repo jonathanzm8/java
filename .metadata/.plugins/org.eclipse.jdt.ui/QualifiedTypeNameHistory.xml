@@ -23,5 +23,15 @@
     <fullyQualifiedTypeName name="com.clearminds.maquina.MaquinaDulces"/>
     <fullyQualifiedTypeName name="com.clearminds.componentes.Celda"/>
     <fullyQualifiedTypeName name="com.clearminds.componentes.Producto"/>
+    <fullyQualifiedTypeName name="krakedev.entidades.Curso"/>
+    <fullyQualifiedTypeName name="krakedev.entidades.Estudiante"/>
+    <fullyQualifiedTypeName name="krakedev.entidades.Materia"/>
+    <fullyQualifiedTypeName name="krakedev.entidades.Nota"/>
+    <fullyQualifiedTypeName name="entidades.Naipe"/>
+    <fullyQualifiedTypeName name="entidades.Carta"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="servicios.Juego"/>
+    <fullyQualifiedTypeName name="com.cmc.evaluacion.entidades.Prestamo"/>
+    <fullyQualifiedTypeName name="com.cmc.evaluacion.Prestamo"/>
+    <fullyQualifiedTypeName name="com.cmc.evaluacion.CalculadoraAmortizacion"/>
 </qualifiedTypeNameHistroy>
