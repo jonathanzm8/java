@@ -80,6 +80,7 @@ public class Contacto {
 		for (Telefono telefono : telefonos) {
 			if (telefono.getEstado().equals("C")) {
 				System.out.println("Número: " + telefono.getNumero() + ", Tipo: " + telefono.getTipo());
+				
 			}
 		}
 	}
