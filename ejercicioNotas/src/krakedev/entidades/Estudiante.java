@@ -69,6 +69,28 @@ public class Estudiante {
 	}
 	
 	public void modificarNota(String codigo, double nuevaNota) {
+		ArrayList<Nota> notas = new ArrayList<>();
+		
+		Nota elemento;
+		double nota;
+		for(int i=0; i<notas.size();i++) {
+			elemento= notas.get(i);
+			
+			if(elemento.getClass().equals(codigo)) {
+				nota=elemento.getCalificacion();
+				nota= nuevaNota;
+				
+			}else if(elemento.getCalificacion()<10 && elemento.getCalificacion()>0) {
+				
+			}else {
+				System.out.println("no encontrado");
+				System.out.println("la nota debe ser mayor a 0 y menor a 10");
+			}
+			
+		}
+		
+		
+		
 		
 		
 	

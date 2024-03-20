@@ -14,14 +14,15 @@ public class TestCurso {
 
 			 Estudiante estudiante = new Estudiante("1234567890", "Juan", "Perez",null);
 			 Estudiante estudiante2 = new Estudiante("12345678290", "Juan", "Perez", null);
-		     Nota nota1 = new Nota(sociales, 10.0);
-		     Nota nota2 = new Nota(matematicas, 10.0);
-		     Nota nota3 = new Nota(lenguaje, 10.0);
+		     Nota nota1 = new Nota("sociales", 10.0);
+		     Nota nota2 = new Nota("matematicas", 10.0);
+		     Nota nota3 = new Nota("lenguaje", 10.0);
 		     
 		     
-		     Nota nota11 = new Nota(sociales,5.0);
-		     Nota nota12 = new Nota(matematicas, 5.0);
-		     Nota nota13 = new Nota(lenguaje, 10.0);
+		     Nota nota11 = new Nota("sociales",5.0);
+		     
+		     Nota nota12 = new Nota("matematicas", 5.0);
+		     Nota nota13 = new Nota("lenguaje", 10.0);
 		     
 		     //Agrega 3 nuevas calificaciones  a Estudiante 1
 		     estudiante.agregarNota(nota1);
