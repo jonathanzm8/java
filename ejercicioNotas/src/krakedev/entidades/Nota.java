@@ -15,9 +15,9 @@ public class Nota {
 	public void setCalificacion(double calificacion) {
 		this.calificacion = calificacion;
 	}
-	public Nota(String materia, double calificacion) {
+	public Nota(Materia lenguaje, double calificacion) {
 		
-		this.materia = materia;
+		this.materia = lenguaje;
 		this.calificacion = calificacion;
 	}
 	

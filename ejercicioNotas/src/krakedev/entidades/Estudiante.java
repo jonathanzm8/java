@@ -77,7 +77,7 @@ public class Estudiante {
 		
 	
 	
-	public double calcularPromedioEstudiante() {
+	public double calcularPromedioNotasEstudiante() {
 		ArrayList<Nota> notas = new ArrayList<>();
 		double promedio=0;
 		Nota elemento;
@@ -100,7 +100,7 @@ public class Estudiante {
 		ArrayList<Nota> notas = new ArrayList<>();
 		Nota elemento;
 		for(int i=0; i<notas.size();i++) {
-			elemento= notas.get();
+			elemento= notas.get(i);
 			System.out.println("notas: "+elemento.getCalificacion());
 			
 		}

@@ -30,7 +30,7 @@ public class Curso {
 		
 	}
 	
-	public void matricularEstudiantes(Estudiante estudiante) {
+	public void matricularEstudiante(Estudiante estudiante) {
 		Estudiante buscarCedula = buscarEstudiantePorCedula(estudiante);
 		ArrayList<Estudiante> estudiantes= new ArrayList<>();
 		Estudiante elemento;
@@ -60,7 +60,7 @@ public class Curso {
 		
 	}
 	
-	public void mostar() {
+	public void mostrar() {
 		ArrayList<Estudiante> estudiantes= new ArrayList<>();
 		Estudiante elemento;
 		for(int i=0; i<estudiantes.size();i++) {
