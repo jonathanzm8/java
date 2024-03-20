@@ -21,7 +21,7 @@
     <fullyQualifiedTypeName name="com.cmc.directorio.entidades.Telefono"/>
     <fullyQualifiedTypeName name="com.cmc.directorio.entidades.AdminContactos"/>
     <fullyQualifiedTypeName name="com.clearminds.maquina.MaquinaDulces"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.clearminds.componentes.Celda"/>
     <fullyQualifiedTypeName name="com.clearminds.componentes.Producto"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
