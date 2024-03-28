@@ -10,7 +10,7 @@ public class TestAlarmas {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// instancio y
+		// instancio y 
 		Alarma alarma1= new Alarma(DiaSemana.LUNES,5,45);
 		Alarma alarma2= new Alarma(DiaSemana.MARTES,13,00);
 		Alarma alarma3= new Alarma(DiaSemana.MIERCOLES,23,00);

@@ -29,9 +29,14 @@
     <fullyQualifiedTypeName name="krakedev.entidades.Nota"/>
     <fullyQualifiedTypeName name="entidades.Naipe"/>
     <fullyQualifiedTypeName name="entidades.Carta"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="servicios.Juego"/>
     <fullyQualifiedTypeName name="com.cmc.evaluacion.entidades.Prestamo"/>
     <fullyQualifiedTypeName name="com.cmc.evaluacion.Prestamo"/>
     <fullyQualifiedTypeName name="com.cmc.evaluacion.CalculadoraAmortizacion"/>
+    <fullyQualifiedTypeName name="com.krakedev.estaticos.ejercicio.entidades.Alarma"/>
+    <fullyQualifiedTypeName name="com.krakedev.estaticos.DiaSemana"/>
+    <fullyQualifiedTypeName name="com.krakedev.estaticos.ejercicio.logica.AdminAlarmas"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+    <fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
 </qualifiedTypeNameHistroy>

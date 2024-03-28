@@ -10,7 +10,8 @@ public class Util {
         return valor;
     }
 	
-	 public static String formatearDia(int dia) {
+	
+	 public String formatearDia(int dia) {
 	        String[] dias = {"Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"};
 	        return dias[dia];
 	    }
