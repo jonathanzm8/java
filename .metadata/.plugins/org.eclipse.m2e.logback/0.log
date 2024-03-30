@@ -854,3 +854,888 @@
 2024-03-27 22:53:55,921 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-03-27 22:53:55,921 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\ejemplojunit\src\test\resources
 2024-03-28 06:47:33,495 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-28 19:52:59,974 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-28 20:55:04,914 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\demo1\src\main\resources
+2024-03-28 20:55:04,920 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\demo1\src\test\resources
+2024-03-29 11:25:12,812 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-29 11:34:00,524 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345 [626])
+2024-03-29 11:34:00,527 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345
+2024-03-29 11:34:00,527 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\aopalliance-1.0.jar
+2024-03-29 11:34:00,528 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\guice-5.1.0.jar
+2024-03-29 11:34:00,528 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\httpclient-4.5.14.jar
+2024-03-29 11:34:00,528 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\httpcore-4.4.16.jar
+2024-03-29 11:34:00,529 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\jansi-2.4.0.jar
+2024-03-29 11:34:00,529 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\jcl-over-slf4j-1.7.36.jar
+2024-03-29 11:34:00,529 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-artifact-3.9.5.jar
+2024-03-29 11:34:00,529 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-builder-support-3.9.5.jar
+2024-03-29 11:34:00,531 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-compat-3.9.5.jar
+2024-03-29 11:34:00,532 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-core-3.9.5.jar
+2024-03-29 11:34:00,532 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-embedder-3.9.5.jar
+2024-03-29 11:34:00,532 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-model-3.9.5.jar
+2024-03-29 11:34:00,533 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-model-builder-3.9.5.jar
+2024-03-29 11:34:00,533 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-plugin-api-3.9.5.jar
+2024-03-29 11:34:00,534 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-repository-metadata-3.9.5.jar
+2024-03-29 11:34:00,534 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-api-1.9.16.jar
+2024-03-29 11:34:00,534 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-connector-basic-1.9.16.jar
+2024-03-29 11:34:00,534 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-impl-1.9.16.jar
+2024-03-29 11:34:00,535 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-named-locks-1.9.16.jar
+2024-03-29 11:34:00,535 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-provider-3.9.5.jar
+2024-03-29 11:34:00,535 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-spi-1.9.16.jar
+2024-03-29 11:34:00,536 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-file-1.9.16.jar
+2024-03-29 11:34:00,536 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-http-1.9.16.jar
+2024-03-29 11:34:00,536 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-wagon-1.9.16.jar
+2024-03-29 11:34:00,537 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-util-1.9.16.jar
+2024-03-29 11:34:00,537 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-settings-3.9.5.jar
+2024-03-29 11:34:00,537 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-settings-builder-3.9.5.jar
+2024-03-29 11:34:00,537 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-shared-utils-3.3.4.jar
+2024-03-29 11:34:00,538 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-03-29 11:34:00,538 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-03-29 11:34:00,538 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-build-api-0.0.7.jar
+2024-03-29 11:34:00,538 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-cipher-2.0.jar
+2024-03-29 11:34:00,539 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-classworlds-2.7.0.jar
+2024-03-29 11:34:00,539 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-component-annotations-2.1.0.jar
+2024-03-29 11:34:00,539 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-interpolation-1.26.jar
+2024-03-29 11:34:00,539 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-sec-dispatcher-2.0.jar
+2024-03-29 11:34:00,540 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-utils-3.5.1.jar
+2024-03-29 11:34:00,540 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-file-3.5.3.jar
+2024-03-29 11:34:00,540 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-http-3.5.3.jar
+2024-03-29 11:34:00,540 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-http-shared-3.5.3.jar
+2024-03-29 11:34:00,541 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-provider-api-3.5.3.jar
+2024-03-29 11:34:00,542 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.3.jre [12])
+2024-03-29 11:34:00,543 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\com.google.guava_32.1.3.jre.jar
+2024-03-29 11:34:00,543 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [986])
+2024-03-29 11:34:00,543 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\slf4j.api_2.0.12.jar
+2024-03-29 11:34:00,544 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [29])
+2024-03-29 11:34:00,544 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-03-29 11:34:00,544 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [24])
+2024-03-29 11:34:00,544 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-03-29 11:34:00,544 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [71])
+2024-03-29 11:34:00,545 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-03-29 11:34:00,545 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [75])
+2024-03-29 11:34:00,546 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-03-29 11:34:00,546 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.13.0 [82])
+2024-03-29 11:34:00,546 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.lang3_3.13.0.jar
+2024-03-29 11:34:00,546 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [13])
+2024-03-29 11:34:00,547 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-03-29 11:34:00,551 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Usuario\AppData\Local\Temp\m2e-archetypeGenerator11645260883661502226":
+2024-03-29 11:34:00,555 [Worker-22: Launching mavenrun-50247b34-af41-4ea5-bc2a-f297284a6682] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=uk.co.markg.archetypes -DarchetypeArtifactId=java11-junit5 -DarchetypeVersion=1.0 -DgroupId=com.krakedev -DartifactId=excepciones -Dversion=1.0.0 -Dpackage=com.krakedev.excepciones -DoutputDirectory=C:\Users\Usuario\Desktop\programacion\java -Dstyle.color=always -U archetype:generate
+2024-03-29 11:34:45,872 [Worker-25: Creating java11-junit5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Usuario\Desktop\programacion\java\excepciones\pom.xml
+2024-03-29 11:34:46,701 [Worker-25: Creating java11-junit5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krakedev:excepciones:1.0.0 @ C:\Users\Usuario\Desktop\programacion\java\excepciones\pom.xml.
+2024-03-29 11:34:47,543 [Worker-25: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /excepciones/src/main/java
+2024-03-29 11:34:47,543 [Worker-25: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /excepciones/src/main/resources
+2024-03-29 11:34:47,547 [Worker-25: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /excepciones/src/test/java
+2024-03-29 11:34:47,548 [Worker-25: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /excepciones/src/test/resources
+2024-03-29 11:34:47,642 [Worker-25: Creating java11-junit5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-03-29 11:34:49,090 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:34:49,091 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 11:34:49,095 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:34:49,095 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 11:35:22,363 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:35:22,363 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 11:35:22,368 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:35:22,368 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 11:37:59,572 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:37:59,573 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 11:37:59,575 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:37:59,576 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 11:38:52,389 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:38:52,389 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 11:38:52,392 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:38:52,392 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 11:39:23,497 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:39:23,497 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 11:39:23,499 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:39:23,499 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 11:39:53,385 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:39:53,386 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 11:39:53,389 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:39:53,389 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 11:41:59,913 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:41:59,914 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 11:41:59,915 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:41:59,915 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 11:42:58,997 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:42:58,998 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 11:42:59,004 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:42:59,004 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 11:43:29,241 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:43:29,242 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 11:43:29,244 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:43:29,244 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 11:52:18,931 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:52:18,931 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 11:52:18,932 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 11:52:18,932 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 15:00:26,239 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krakedev:excepciones:1.0.0 @ C:\Users\Usuario\Desktop\programacion\java\excepciones\pom.xml.
+2024-03-29 15:00:26,671 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 15:00:26,671 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 15:00:26,673 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 15:00:26,673 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 15:04:41,685 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345 [626])
+2024-03-29 15:04:41,686 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345
+2024-03-29 15:04:41,686 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\aopalliance-1.0.jar
+2024-03-29 15:04:41,686 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\guice-5.1.0.jar
+2024-03-29 15:04:41,687 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\httpclient-4.5.14.jar
+2024-03-29 15:04:41,687 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\httpcore-4.4.16.jar
+2024-03-29 15:04:41,687 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\jansi-2.4.0.jar
+2024-03-29 15:04:41,687 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\jcl-over-slf4j-1.7.36.jar
+2024-03-29 15:04:41,687 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-artifact-3.9.5.jar
+2024-03-29 15:04:41,687 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-builder-support-3.9.5.jar
+2024-03-29 15:04:41,687 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-compat-3.9.5.jar
+2024-03-29 15:04:41,688 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-core-3.9.5.jar
+2024-03-29 15:04:41,688 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-embedder-3.9.5.jar
+2024-03-29 15:04:41,688 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-model-3.9.5.jar
+2024-03-29 15:04:41,688 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-model-builder-3.9.5.jar
+2024-03-29 15:04:41,688 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-plugin-api-3.9.5.jar
+2024-03-29 15:04:41,688 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-repository-metadata-3.9.5.jar
+2024-03-29 15:04:41,688 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-api-1.9.16.jar
+2024-03-29 15:04:41,689 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-connector-basic-1.9.16.jar
+2024-03-29 15:04:41,689 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-impl-1.9.16.jar
+2024-03-29 15:04:41,689 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-named-locks-1.9.16.jar
+2024-03-29 15:04:41,689 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-provider-3.9.5.jar
+2024-03-29 15:04:41,689 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-spi-1.9.16.jar
+2024-03-29 15:04:41,689 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-file-1.9.16.jar
+2024-03-29 15:04:41,689 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-http-1.9.16.jar
+2024-03-29 15:04:41,689 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-wagon-1.9.16.jar
+2024-03-29 15:04:41,690 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-util-1.9.16.jar
+2024-03-29 15:04:41,690 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-settings-3.9.5.jar
+2024-03-29 15:04:41,690 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-settings-builder-3.9.5.jar
+2024-03-29 15:04:41,690 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-shared-utils-3.3.4.jar
+2024-03-29 15:04:41,690 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-03-29 15:04:41,690 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-03-29 15:04:41,690 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-build-api-0.0.7.jar
+2024-03-29 15:04:41,691 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-cipher-2.0.jar
+2024-03-29 15:04:41,691 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-classworlds-2.7.0.jar
+2024-03-29 15:04:41,691 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-component-annotations-2.1.0.jar
+2024-03-29 15:04:41,691 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-interpolation-1.26.jar
+2024-03-29 15:04:41,692 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-sec-dispatcher-2.0.jar
+2024-03-29 15:04:41,692 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-utils-3.5.1.jar
+2024-03-29 15:04:41,692 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-file-3.5.3.jar
+2024-03-29 15:04:41,692 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-http-3.5.3.jar
+2024-03-29 15:04:41,692 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-http-shared-3.5.3.jar
+2024-03-29 15:04:41,692 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-provider-api-3.5.3.jar
+2024-03-29 15:04:41,693 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.3.jre [12])
+2024-03-29 15:04:41,693 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\com.google.guava_32.1.3.jre.jar
+2024-03-29 15:04:41,693 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [986])
+2024-03-29 15:04:41,693 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\slf4j.api_2.0.12.jar
+2024-03-29 15:04:41,693 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [29])
+2024-03-29 15:04:41,694 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-03-29 15:04:41,694 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [24])
+2024-03-29 15:04:41,694 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-03-29 15:04:41,694 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [71])
+2024-03-29 15:04:41,694 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-03-29 15:04:41,694 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [75])
+2024-03-29 15:04:41,695 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-03-29 15:04:41,695 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.13.0 [82])
+2024-03-29 15:04:41,695 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.lang3_3.13.0.jar
+2024-03-29 15:04:41,695 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [13])
+2024-03-29 15:04:41,695 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-03-29 15:04:41,697 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Usuario\Desktop\programacion\java\excepciones":
+2024-03-29 15:04:41,697 [Worker-37: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_excepciones] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2024-03-29 15:04:47,570 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 15:04:47,570 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 15:04:47,572 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 15:04:47,573 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 17:11:03,411 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-29 17:13:11,454 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:13:11,455 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 17:13:11,461 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:13:11,462 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 17:16:35,147 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:16:35,148 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 17:16:35,151 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:16:35,151 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 17:18:48,784 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:18:48,784 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 17:18:48,788 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:18:48,788 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 17:19:12,651 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:19:12,651 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\main\resources
+2024-03-29 17:19:12,655 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:19:12,655 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\excepciones\src\test\resources
+2024-03-29 17:23:43,804 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345 [626])
+2024-03-29 17:23:43,807 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345
+2024-03-29 17:23:43,807 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\aopalliance-1.0.jar
+2024-03-29 17:23:43,808 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\guice-5.1.0.jar
+2024-03-29 17:23:43,808 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\httpclient-4.5.14.jar
+2024-03-29 17:23:43,808 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\httpcore-4.4.16.jar
+2024-03-29 17:23:43,808 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\jansi-2.4.0.jar
+2024-03-29 17:23:43,808 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\jcl-over-slf4j-1.7.36.jar
+2024-03-29 17:23:43,808 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-artifact-3.9.5.jar
+2024-03-29 17:23:43,809 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-builder-support-3.9.5.jar
+2024-03-29 17:23:43,809 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-compat-3.9.5.jar
+2024-03-29 17:23:43,809 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-core-3.9.5.jar
+2024-03-29 17:23:43,809 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-embedder-3.9.5.jar
+2024-03-29 17:23:43,810 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-model-3.9.5.jar
+2024-03-29 17:23:43,810 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-model-builder-3.9.5.jar
+2024-03-29 17:23:43,810 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-plugin-api-3.9.5.jar
+2024-03-29 17:23:43,811 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-repository-metadata-3.9.5.jar
+2024-03-29 17:23:43,811 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-api-1.9.16.jar
+2024-03-29 17:23:43,811 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-connector-basic-1.9.16.jar
+2024-03-29 17:23:43,812 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-impl-1.9.16.jar
+2024-03-29 17:23:43,812 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-named-locks-1.9.16.jar
+2024-03-29 17:23:43,812 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-provider-3.9.5.jar
+2024-03-29 17:23:43,812 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-spi-1.9.16.jar
+2024-03-29 17:23:43,813 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-file-1.9.16.jar
+2024-03-29 17:23:43,813 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-http-1.9.16.jar
+2024-03-29 17:23:43,813 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-wagon-1.9.16.jar
+2024-03-29 17:23:43,814 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-util-1.9.16.jar
+2024-03-29 17:23:43,814 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-settings-3.9.5.jar
+2024-03-29 17:23:43,814 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-settings-builder-3.9.5.jar
+2024-03-29 17:23:43,814 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-shared-utils-3.3.4.jar
+2024-03-29 17:23:43,814 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-03-29 17:23:43,814 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-03-29 17:23:43,815 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-build-api-0.0.7.jar
+2024-03-29 17:23:43,815 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-cipher-2.0.jar
+2024-03-29 17:23:43,815 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-classworlds-2.7.0.jar
+2024-03-29 17:23:43,815 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-component-annotations-2.1.0.jar
+2024-03-29 17:23:43,815 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-interpolation-1.26.jar
+2024-03-29 17:23:43,815 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-sec-dispatcher-2.0.jar
+2024-03-29 17:23:43,816 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-utils-3.5.1.jar
+2024-03-29 17:23:43,816 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-file-3.5.3.jar
+2024-03-29 17:23:43,816 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-http-3.5.3.jar
+2024-03-29 17:23:43,816 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-http-shared-3.5.3.jar
+2024-03-29 17:23:43,816 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-provider-api-3.5.3.jar
+2024-03-29 17:23:43,817 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.3.jre [12])
+2024-03-29 17:23:43,817 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\com.google.guava_32.1.3.jre.jar
+2024-03-29 17:23:43,817 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [986])
+2024-03-29 17:23:43,818 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\slf4j.api_2.0.12.jar
+2024-03-29 17:23:43,818 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [29])
+2024-03-29 17:23:43,818 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-03-29 17:23:43,818 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [24])
+2024-03-29 17:23:43,818 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-03-29 17:23:43,818 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [71])
+2024-03-29 17:23:43,819 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-03-29 17:23:43,819 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [75])
+2024-03-29 17:23:43,819 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-03-29 17:23:43,819 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.13.0 [82])
+2024-03-29 17:23:43,820 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.lang3_3.13.0.jar
+2024-03-29 17:23:43,820 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [13])
+2024-03-29 17:23:43,820 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-03-29 17:23:43,824 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Usuario\AppData\Local\Temp\m2e-archetypeGenerator9247148632227583649":
+2024-03-29 17:23:43,825 [Worker-22: Launching mavenrun-09cad93d-93f2-4a42-ba9c-4a0b011f8c26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=uk.co.markg.archetypes -DarchetypeArtifactId=java11-junit5 -DarchetypeVersion=1.0 -DgroupId=com.krakedev -DartifactId=conexionbdd -Dversion=1.0.0 -Dpackage=com.krakedev.conexionbdd -DoutputDirectory=C:\Users\Usuario\Desktop\programacion\java -Dstyle.color=always -U archetype:generate
+2024-03-29 17:27:30,654 [Worker-23: Creating java11-junit5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Usuario\Desktop\programacion\java\conexionbdd\pom.xml
+2024-03-29 17:27:31,334 [Worker-23: Creating java11-junit5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krakedev:conexionbdd:1.0.0 @ C:\Users\Usuario\Desktop\programacion\java\conexionbdd\pom.xml.
+2024-03-29 17:27:31,872 [Worker-23: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /conexionbdd/src/main/java
+2024-03-29 17:27:31,872 [Worker-23: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /conexionbdd/src/main/resources
+2024-03-29 17:27:31,882 [Worker-23: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /conexionbdd/src/test/java
+2024-03-29 17:27:31,883 [Worker-23: Creating java11-junit5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /conexionbdd/src/test/resources
+2024-03-29 17:27:31,975 [Worker-23: Creating java11-junit5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-03-29 17:27:32,339 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:27:32,339 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:27:32,339 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:27:32,339 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:28:43,011 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krakedev:conexionbdd:1.0.0 @ C:\Users\Usuario\Desktop\programacion\java\conexionbdd\pom.xml.
+2024-03-29 17:28:43,267 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.pom
+2024-03-29 17:28:43,290 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.pom
+2024-03-29 17:28:43,350 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.31.0/checker-qual-3.31.0.pom
+2024-03-29 17:28:43,357 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.31.0/checker-qual-3.31.0.pom
+2024-03-29 17:28:43,464 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar
+2024-03-29 17:28:43,771 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar
+2024-03-29 17:28:43,810 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.31.0/checker-qual-3.31.0.jar
+2024-03-29 17:28:43,905 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.31.0/checker-qual-3.31.0.jar
+2024-03-29 17:28:44,006 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:28:44,007 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:28:44,011 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:28:44,011 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:28:45,218 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0-sources.jar
+2024-03-29 17:28:47,785 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0-sources.jar
+2024-03-29 17:28:47,795 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.6.0
+2024-03-29 17:28:47,925 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.31.0/checker-qual-3.31.0-sources.jar
+2024-03-29 17:28:48,031 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.31.0/checker-qual-3.31.0-sources.jar
+2024-03-29 17:28:48,041 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-qual:3.31.0
+2024-03-29 17:29:33,527 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.krakedev:conexionbdd:1.0.0 @ C:\Users\Usuario\Desktop\programacion\java\conexionbdd\pom.xml.
+2024-03-29 17:29:33,695 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:29:33,696 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:29:33,698 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:29:33,698 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:30:05,574 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345 [626])
+2024-03-29 17:30:05,574 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345
+2024-03-29 17:30:05,574 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\aopalliance-1.0.jar
+2024-03-29 17:30:05,574 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\guice-5.1.0.jar
+2024-03-29 17:30:05,575 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\httpclient-4.5.14.jar
+2024-03-29 17:30:05,575 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\httpcore-4.4.16.jar
+2024-03-29 17:30:05,575 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\jansi-2.4.0.jar
+2024-03-29 17:30:05,575 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\jcl-over-slf4j-1.7.36.jar
+2024-03-29 17:30:05,575 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-artifact-3.9.5.jar
+2024-03-29 17:30:05,575 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-builder-support-3.9.5.jar
+2024-03-29 17:30:05,575 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-compat-3.9.5.jar
+2024-03-29 17:30:05,576 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-core-3.9.5.jar
+2024-03-29 17:30:05,576 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-embedder-3.9.5.jar
+2024-03-29 17:30:05,576 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-model-3.9.5.jar
+2024-03-29 17:30:05,576 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-model-builder-3.9.5.jar
+2024-03-29 17:30:05,577 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-plugin-api-3.9.5.jar
+2024-03-29 17:30:05,577 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-repository-metadata-3.9.5.jar
+2024-03-29 17:30:05,577 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-api-1.9.16.jar
+2024-03-29 17:30:05,577 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-connector-basic-1.9.16.jar
+2024-03-29 17:30:05,577 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-impl-1.9.16.jar
+2024-03-29 17:30:05,577 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-named-locks-1.9.16.jar
+2024-03-29 17:30:05,577 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-provider-3.9.5.jar
+2024-03-29 17:30:05,578 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-spi-1.9.16.jar
+2024-03-29 17:30:05,578 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-file-1.9.16.jar
+2024-03-29 17:30:05,578 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-http-1.9.16.jar
+2024-03-29 17:30:05,578 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-transport-wagon-1.9.16.jar
+2024-03-29 17:30:05,578 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-resolver-util-1.9.16.jar
+2024-03-29 17:30:05,578 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-settings-3.9.5.jar
+2024-03-29 17:30:05,579 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-settings-builder-3.9.5.jar
+2024-03-29 17:30:05,579 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\maven-shared-utils-3.3.4.jar
+2024-03-29 17:30:05,579 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-03-29 17:30:05,579 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-03-29 17:30:05,579 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-build-api-0.0.7.jar
+2024-03-29 17:30:05,580 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-cipher-2.0.jar
+2024-03-29 17:30:05,580 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-classworlds-2.7.0.jar
+2024-03-29 17:30:05,580 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-component-annotations-2.1.0.jar
+2024-03-29 17:30:05,580 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-interpolation-1.26.jar
+2024-03-29 17:30:05,580 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-sec-dispatcher-2.0.jar
+2024-03-29 17:30:05,581 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\plexus-utils-3.5.1.jar
+2024-03-29 17:30:05,581 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-file-3.5.3.jar
+2024-03-29 17:30:05,581 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-http-3.5.3.jar
+2024-03-29 17:30:05,581 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-http-shared-3.5.3.jar
+2024-03-29 17:30:05,581 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.500.20231113-2345\jars\wagon-provider-api-3.5.3.jar
+2024-03-29 17:30:05,582 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.3.jre [12])
+2024-03-29 17:30:05,582 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\com.google.guava_32.1.3.jre.jar
+2024-03-29 17:30:05,582 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [986])
+2024-03-29 17:30:05,582 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\slf4j.api_2.0.12.jar
+2024-03-29 17:30:05,582 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [29])
+2024-03-29 17:30:05,582 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-03-29 17:30:05,582 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [24])
+2024-03-29 17:30:05,582 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-03-29 17:30:05,582 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [71])
+2024-03-29 17:30:05,584 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2024-03-29 17:30:05,584 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [75])
+2024-03-29 17:30:05,584 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-03-29 17:30:05,584 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.13.0 [82])
+2024-03-29 17:30:05,584 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\org.apache.commons.lang3_3.13.0.jar
+2024-03-29 17:30:05,584 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [13])
+2024-03-29 17:30:05,585 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Usuario\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-03-29 17:30:05,586 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Usuario\Desktop\programacion\java\conexionbdd":
+2024-03-29 17:30:05,586 [Worker-25: Launching Executing install in C__Users_Usuario_Desktop_programacion_java_conexionbdd] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2024-03-29 17:30:13,479 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:30:13,480 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:30:13,482 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:30:13,482 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:30:55,575 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:30:55,575 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:30:55,578 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:30:55,578 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:32:48,825 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:32:48,826 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:32:48,829 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:32:48,829 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:33:23,646 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:33:23,646 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:33:23,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:33:23,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:43:59,444 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:43:59,444 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:43:59,446 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:43:59,447 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:45:08,698 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:45:08,698 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:45:08,701 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:45:08,701 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:45:44,741 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:45:44,742 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:45:44,744 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:45:44,744 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:46:50,953 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:46:50,954 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:46:50,958 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:46:50,958 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-29 17:47:14,604 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:47:14,604 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-29 17:47:14,607 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-29 17:47:14,607 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:32:23,052 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-30 08:42:08,321 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:42:08,325 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:42:08,330 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:42:08,330 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:42:12,429 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:42:12,429 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:42:12,434 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:42:12,434 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:43:10,708 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:43:10,708 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:43:10,712 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:43:10,712 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:43:52,901 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:43:52,901 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:43:52,905 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:43:52,905 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:44:54,097 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:44:54,098 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:44:54,102 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:44:54,103 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:45:24,911 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:45:24,911 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:45:24,914 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:45:24,915 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:47:48,422 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:47:48,422 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:47:48,425 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:47:48,426 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:48:33,953 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:48:33,953 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:48:33,956 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:48:33,956 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:50:15,173 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:50:15,173 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:50:15,176 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:50:15,177 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:51:10,846 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:51:10,847 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:51:10,850 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:51:10,850 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:52:35,882 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:52:35,883 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:52:35,885 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:52:35,885 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:54:18,076 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:54:18,077 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:54:18,080 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:54:18,081 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:55:02,263 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:55:02,263 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:55:02,267 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:55:02,267 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 08:59:06,175 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:59:06,175 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 08:59:06,180 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 08:59:06,181 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:01:06,687 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:01:06,687 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:01:06,689 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:01:06,690 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:01:41,130 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:01:41,131 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:01:41,136 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:01:41,136 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:01:53,588 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:01:53,589 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:01:53,593 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:01:53,593 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:03:11,843 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:03:11,843 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:03:11,847 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:03:11,847 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:03:34,699 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:03:34,699 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:03:34,702 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:03:34,703 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:06:06,893 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:06:06,893 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:06:06,896 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:06:06,896 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:08:25,573 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:08:25,574 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:08:25,578 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:08:25,579 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:18:21,962 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:18:21,962 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:18:21,964 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:18:21,965 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:21:41,170 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:21:41,170 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:21:41,173 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:21:41,174 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:25:11,498 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:25:11,498 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:25:11,500 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:25:11,501 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:26:12,953 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:26:12,953 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:26:12,956 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:26:12,956 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:26:34,425 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:26:34,425 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:26:34,427 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:26:34,427 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:27:49,866 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:27:49,866 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:27:49,868 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:27:49,868 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:28:11,235 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:28:11,235 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:28:11,237 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:28:11,238 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:28:16,152 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:28:16,153 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:28:16,158 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:28:16,158 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:28:53,308 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:28:53,316 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:28:53,316 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:28:53,316 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:29:13,657 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:29:13,657 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:29:13,660 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:29:13,660 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:30:15,160 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:30:15,161 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:30:15,164 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:30:15,164 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:30:43,284 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:30:43,284 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:30:43,288 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:30:43,288 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:32:03,680 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:32:03,681 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:32:03,684 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:32:03,684 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:33:52,036 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:33:52,036 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:33:52,038 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:33:52,038 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:36:50,382 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:36:50,382 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:36:50,385 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:36:50,387 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:37:01,519 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:37:01,520 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:37:01,522 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:37:01,523 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:37:20,553 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:37:20,554 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:37:20,557 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:37:20,557 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:37:49,709 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:37:49,710 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:37:49,714 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:37:49,715 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:39:44,971 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:39:44,971 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:39:44,975 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:39:44,975 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:39:59,926 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:39:59,926 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:39:59,928 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:39:59,928 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:41:08,123 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:41:08,123 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:41:08,127 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:41:08,127 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:41:52,129 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:41:52,129 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:41:52,132 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:41:52,132 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:42:14,789 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:42:14,789 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:42:14,793 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:42:14,793 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:42:34,095 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:42:34,096 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:42:34,098 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:42:34,098 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:42:45,570 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:42:45,570 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:42:45,571 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:42:45,572 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:44:10,561 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:44:10,562 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:44:10,564 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:44:10,565 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:44:15,889 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:44:15,889 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:44:15,891 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:44:15,891 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:46:37,915 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:46:37,915 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:46:37,919 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:46:37,919 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:49:00,664 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:49:00,665 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:49:00,667 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:49:00,667 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:51:19,149 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:51:19,149 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:51:19,153 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:51:19,153 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:52:11,044 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:52:11,044 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:52:11,046 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:52:11,046 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:54:01,743 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:54:01,744 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:54:01,747 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:54:01,747 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:55:15,473 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:55:15,474 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:55:15,476 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:55:15,476 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:55:53,472 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:55:53,473 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:55:53,474 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:55:53,474 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:56:12,999 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:56:13,000 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:56:13,002 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:56:13,003 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 09:56:58,615 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:56:58,616 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 09:56:58,620 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 09:56:58,620 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:07:32,109 [Worker-45: Launching TestConexion1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:07:32,110 [Worker-45: Launching TestConexion1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:07:32,112 [Worker-45: Launching TestConexion1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:07:32,113 [Worker-45: Launching TestConexion1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:08:10,658 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:08:10,659 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:08:10,660 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:08:10,661 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:08:51,110 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:08:51,111 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:08:51,115 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:08:51,115 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:14:36,325 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:14:36,326 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:14:36,328 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:14:36,329 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:18:53,846 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:18:53,847 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:18:53,852 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:18:53,853 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:20:00,932 [Worker-57: Launching TestConexion1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:20:00,932 [Worker-57: Launching TestConexion1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:20:00,934 [Worker-57: Launching TestConexion1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:20:00,935 [Worker-57: Launching TestConexion1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:23:47,895 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:23:47,895 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:23:47,903 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:23:47,903 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:24:15,564 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:24:15,565 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:24:15,567 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:24:15,567 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:24:23,594 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:24:23,594 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:24:23,596 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:24:23,596 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:24:39,844 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:24:39,844 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:24:39,846 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:24:39,847 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:30:04,509 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:30:04,510 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:30:04,513 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:30:04,514 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:31:37,293 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:31:37,293 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:31:37,295 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:31:37,295 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:32:20,600 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:32:20,600 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:32:20,602 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:32:20,603 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:32:41,808 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:32:41,809 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:32:41,810 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:32:41,810 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:33:09,531 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:33:09,531 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:33:09,533 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:33:09,535 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:33:32,388 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:33:32,389 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:33:32,391 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:33:32,391 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:33:43,356 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:33:43,357 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:33:43,358 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:33:43,358 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:34:11,081 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:34:11,082 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:34:11,084 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:34:11,084 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:34:35,786 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:34:35,787 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:34:35,789 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:34:35,789 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:35:56,285 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:35:56,286 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:35:56,288 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:35:56,289 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 10:54:46,690 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:54:46,691 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 10:54:46,694 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 10:54:46,694 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:00:53,057 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:00:53,063 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:00:53,066 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:00:53,066 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:01:26,357 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:01:26,357 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:01:26,358 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:01:26,358 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:01:42,852 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:01:42,852 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:01:42,852 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:01:42,852 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:05:23,422 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:05:23,423 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:05:23,425 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:05:23,425 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:05:52,332 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:05:52,332 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:05:52,346 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:05:52,346 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:07:43,558 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:07:43,558 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:07:43,558 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:07:43,558 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:08:04,469 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:08:04,469 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:08:04,469 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:08:04,469 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:08:41,414 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:08:41,414 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:08:41,430 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:08:41,430 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:08:51,426 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:08:51,426 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:08:51,427 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:08:51,427 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:09:19,689 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:09:19,689 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:09:19,691 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:09:19,691 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:11:19,375 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:11:19,375 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:11:19,376 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:11:19,377 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:12:00,419 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:12:00,420 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:12:00,421 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:12:00,421 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:12:21,117 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:12:21,119 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:12:21,119 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:12:21,119 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:12:37,159 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:12:37,159 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:12:37,159 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:12:37,159 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:13:22,392 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:13:22,392 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:13:22,394 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:13:22,394 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:18:46,695 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:18:46,695 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:18:46,697 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:18:46,697 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:19:08,606 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:19:08,606 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:19:08,608 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:19:08,608 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:19:15,455 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:19:15,455 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:19:15,456 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:19:15,457 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:21:44,428 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:21:44,429 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:21:44,430 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:21:44,430 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:24:44,661 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:24:44,661 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:24:44,662 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:24:44,663 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:24:59,747 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:24:59,748 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:24:59,749 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:24:59,749 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:26:29,113 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:26:29,113 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:26:29,114 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:26:29,115 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:27:00,406 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:27:00,407 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:27:00,408 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:27:00,408 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:28:55,164 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:28:55,165 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:28:55,166 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:28:55,166 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:30:06,696 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:30:06,697 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:30:06,698 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:30:06,698 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:31:14,992 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:31:14,993 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:31:14,994 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:31:14,994 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:31:27,704 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:31:27,704 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:31:27,706 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:31:27,706 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:31:38,384 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:31:38,385 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:31:38,386 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:31:38,386 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:31:45,971 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:31:45,971 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:31:45,972 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:31:45,972 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:32:28,763 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:32:28,763 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:32:28,764 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:32:28,764 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:35:20,110 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:35:20,111 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:35:20,112 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:35:20,112 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:35:24,508 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:35:24,508 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:35:24,509 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:35:24,509 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:36:02,518 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:36:02,518 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:36:02,519 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:36:02,519 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:37:34,700 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:37:34,700 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:37:34,701 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:37:34,701 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:39:55,101 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:39:55,101 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:39:55,102 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:39:55,103 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:40:00,821 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:40:00,822 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:40:00,823 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:40:00,823 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:42:36,868 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:42:36,869 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:42:36,870 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:42:36,870 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:42:45,155 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:42:45,155 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:42:45,155 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:42:45,155 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:43:16,225 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:43:16,226 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:43:16,227 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:43:16,227 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:44:19,532 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:44:19,532 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:44:19,533 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:44:19,533 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:44:54,811 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:44:54,812 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:44:54,814 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:44:54,814 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:45:27,272 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:45:27,273 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:45:27,275 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:45:27,275 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:46:41,160 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:46:41,161 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:46:41,162 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:46:41,162 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:47:35,077 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:47:35,077 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:47:35,078 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:47:35,079 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
+2024-03-30 13:48:22,649 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:48:22,649 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\main\resources
+2024-03-30 13:48:22,650 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-30 13:48:22,650 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Desktop\programacion\java\conexionbdd\src\test\resources
