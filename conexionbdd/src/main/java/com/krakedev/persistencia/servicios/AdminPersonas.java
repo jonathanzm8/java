@@ -2,7 +2,9 @@ package com.krakedev.persistencia.servicios;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -93,5 +95,148 @@ public class AdminPersonas {
 			}
 
 		}
+	}
+	
+	public static ArrayList<Personas> buscarPorNombre(String nombreBusqueda) throws Exception{
+		ArrayList<Personas> personas= new ArrayList<Personas>();
+		Connection con = null;
+		PreparedStatement ps= null;
+		ResultSet rs= null;
+		
+		try {
+			con=ConexionBDD.conectar();
+			ps=con.prepareStatement("select * from persona where nombre like ?");
+			ps.setString(1, "%"+nombreBusqueda+"%");
+			
+			rs=ps.executeQuery();
+			
+			while(rs.next()) {
+				String nombre=rs.getString("nombre");
+				String cedula= rs.getString("cedula");
+				Personas p= new Personas();
+				p.setNombre(nombre);
+				p.setCedula(cedula);
+				personas.add(p);
+				
+				
+			}
+			
+			
+		} catch (Exception e) {
+			LOGGER.error("Error al consultar por nombre", e);
+			throw new Exception("Error al consultar por nombre");
+		}finally {
+			try {
+				con.close();
+			} catch (SQLException e) {
+				LOGGER.error("Error con la base de Datos", e);
+				throw new Exception("Error con la base de Datos");
+			}
+		}
+		
+		return personas;
+		
+		
+	}
+	
+	public static ArrayList<Personas> buscarCedula (String cedula) throws Exception{
+		ArrayList<Personas> personas= new ArrayList<Personas>();
+		
+		Connection con = null;
+		PreparedStatement ps= null;
+		ResultSet rs;
+		
+		try {
+			con=ConexionBDD.conectar();
+			ps=con.prepareStatement("select * from persona where cedula= ?");
+			ps.setString(1, cedula);
+			rs=ps.executeQuery();
+			
+			if(rs.next()) {
+				String nombre=rs.getString("nombre");
+				String cedula1= rs.getString("cedula");
+				Personas p= new Personas();
+				
+				p.setNombre(nombre);
+				p.setCedula(cedula1);
+				personas.add(p);
+				
+				p.setNombre(nombre);
+				
+				p.setCedula(cedula1);
+				personas.add(p);
+				
+				
+			}else {
+				return null;
+			}
+			
+			
+			
+			
+		} catch (Exception e) {
+			LOGGER.error("Error al consultar por cedula", e);
+			throw new Exception("Error al consultar por cedula");
+		}finally {
+			try {
+				con.close();
+			} catch (SQLException e) {
+				LOGGER.error("Error con la base de Datos", e);
+				throw new Exception("Error con la base de Datos");
+			}
+		}
+		
+		
+		return personas;
+		
+		
+	}
+	
+	public static ArrayList<Personas> buscarArgumentos(String nombre, String apellido) throws Exception{
+		
+		ArrayList<Personas> personas= new ArrayList<Personas>();
+		
+		Connection con = null;
+		PreparedStatement ps= null;
+		ResultSet rs= null;
+		
+		try {
+			con= ConexionBDD.conectar();
+			ps=con.prepareStatement("select * from persona where nombre = ? and apellido= ?");
+			ps.setString(1, nombre);
+			ps.setString(2, apellido);
+			rs=ps.executeQuery();
+			
+			while(rs.next()) {
+				String nombre1=rs.getString("nombre");
+				String cedula1= rs.getString("cedula");
+				Personas p= new Personas();
+				
+				p.setNombre(nombre);
+				p.setCedula(cedula1);
+				personas.add(p);
+				
+				p.setNombre(nombre1);
+				
+				p.setCedula(cedula1);
+				personas.add(p);
+				
+				
+			}
+		
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}finally {
+			try {
+				con.close();
+			} catch (SQLException e) {
+				LOGGER.error("Error con la base de Datos", e);
+				throw new Exception("Error con la base de Datos");
+			}
+		}
+		
+		return personas;
+		
 	}
 }
