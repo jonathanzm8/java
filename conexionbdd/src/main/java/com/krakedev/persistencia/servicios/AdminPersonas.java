@@ -139,8 +139,8 @@ public class AdminPersonas {
 		
 	}
 	
-	public static ArrayList<Personas> buscarCedula (String cedula) throws Exception{
-		ArrayList<Personas> personas= new ArrayList<Personas>();
+	public static Personas buscarCedula (String cedula) throws Exception{
+		Personas personas= new Personas();
 		
 		Connection con = null;
 		PreparedStatement ps= null;
@@ -159,12 +159,12 @@ public class AdminPersonas {
 				
 				p.setNombre(nombre);
 				p.setCedula(cedula1);
-				personas.add(p);
+				
 				
 				p.setNombre(nombre);
 				
 				p.setCedula(cedula1);
-				personas.add(p);
+				
 				
 				
 			}else {
@@ -192,9 +192,9 @@ public class AdminPersonas {
 		
 	}
 	
-	public static ArrayList<Personas> buscarArgumentos(String nombre, String apellido) throws Exception{
+	public static Personas buscarArgumentos(String nombre, String apellido) throws Exception{
 		
-		ArrayList<Personas> personas= new ArrayList<Personas>();
+		Personas personas= new Personas();
 		
 		Connection con = null;
 		PreparedStatement ps= null;
@@ -214,12 +214,12 @@ public class AdminPersonas {
 				
 				p.setNombre(nombre);
 				p.setCedula(cedula1);
-				personas.add(p);
+			
 				
 				p.setNombre(nombre1);
 				
 				p.setCedula(cedula1);
-				personas.add(p);
+				
 				
 				
 			}

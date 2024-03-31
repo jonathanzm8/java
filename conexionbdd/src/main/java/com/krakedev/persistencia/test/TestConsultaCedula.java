@@ -9,8 +9,9 @@ public class TestConsultaCedula {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		Personas personas= new Personas();
 		try {
-			ArrayList<Personas> personas=AdminPersonas.buscarCedula("1105232977");
+			 personas=AdminPersonas.buscarCedula("1105232977");
 			System.out.println(personas);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

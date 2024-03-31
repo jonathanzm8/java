@@ -9,8 +9,9 @@ public class TestConsultaArgumentos {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		Personas personas= new Personas();
 		try {
-			ArrayList<Personas>personas= AdminPersonas.buscarArgumentos("jonathan", "zhiña");
+			personas= AdminPersonas.buscarArgumentos("jonathan", "zhiña");
 			System.out.println(personas);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

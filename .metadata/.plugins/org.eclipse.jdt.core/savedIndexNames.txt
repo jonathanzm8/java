@@ -31,7 +31,6 @@ INDEX VERSION 1.134+C:\Users\Usuario\Desktop\programacion\java\.metadata\.plugin
 3868972612.index
 1865797976.index
 1947184463.index
-2536390161.index
 1082120013.index
 3157459233.index
 867500614.index
